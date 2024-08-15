@@ -18,6 +18,7 @@ print(c)
 # hipotenusa (lado1,lado2)
 
 Rafaela 2º =  
+sla
 soma = c**2
 print("c")
 
