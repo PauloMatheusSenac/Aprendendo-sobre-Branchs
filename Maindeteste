@@ -1,1 +1,31 @@
-teste
+# Existência de um Triângulo:
+# Crie um programa que recebe os três lados de um triângulo e passa esses valores para uma 
+# função que verifica se esse triângulo existe ou não. Para que um triângulo exista, cada lado 
+# deve ser maior que o módulo da subtração dos outros dois lados e menor que a soma dos 
+# outros dois lados.
+# def triangulo(a, b, c):
+#     if (a - b < c < a + b) and (a - c < b < a + c) and (b - c < a < b + c):
+#         print("O triângulo existe.")
+#     else:
+#         print("O triângulo não existe.")
+# lado1 = float(input("Digite o lado 1: "))
+# lado2 = float(input("Digite o lado 2: "))
+# lado3 = float(input("Digite o lado 3: "))
+# triangulo(lado1, lado2, lado3)
+    
+
+
+# def verifica_triangulo(a, b, c):
+#     if (a + b > c) and (a + c > b) and (b + c > a):
+#         print("Os lados formam um triângulo.")
+#     else:
+#         print("Os lados não formam um triângulo.")
+
+# lado1 = float(input("Digite o lado 1: "))
+# lado2 = float(input("Digite o lado 2: "))
+# lado3 = float(input("Digite o lado 3: "))
+
+# if lado1 > 0 and lado2 > 0 and lado3 > 0:  
+#     verifica_triangulo(lado1, lado2, lado3)
+# else:
+#     print("Digite valores válidos!")
