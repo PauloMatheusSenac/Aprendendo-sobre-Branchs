@@ -25,3 +25,23 @@ print("c")
 #pão com ovo :P
 
 João 3º = 
+import math
+
+    a = int(input ("Qual o valor de a: " ))
+    b = int(input ("Qual o valor de b: " ))
+    c = int(input ("Qual o valor de c: " ))
+
+    Delta = b**2 - 4*a*c
+    
+    raiz = ((-1*b) + math.sqrt(Delta))//2*a
+    
+    raiz2 = ((-1*b)- math.sqrt(Delta))//2*a
+    
+    if Delta == 0:
+         print ("O valor da raiz é:" + str(raiz) )
+
+    if Delta>0:
+         print ("O valor das raizes é: " + str(raiz) + " e " + str(raiz2) )
+
+    if Delta<0:
+         print ("Essa equação não possui raizes reais" )
