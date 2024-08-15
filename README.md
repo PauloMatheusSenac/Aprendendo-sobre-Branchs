@@ -17,6 +17,9 @@ print(c)
 # lado2 = float (input ("Digite o segundo lado: "))
 # hipotenusa (lado1,lado2)
 
+
+ultimo teste
+
 Rafaela 2º =  
 sla
 soma = c**2
