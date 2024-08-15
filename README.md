@@ -24,6 +24,6 @@ print("c")
 
 #pão com ovo :P
 
-João 3º = 
-h**2 = a**2 + b**2
-
+João 3º = ebvbbvjvbbv
+abkbkbvewbfbwenc
+egiowevnvkebhowebvo
