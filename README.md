@@ -17,8 +17,13 @@ print(c)
 # lado2 = float (input ("Digite o segundo lado: "))
 # hipotenusa (lado1,lado2)
 
-Rafaela 2º = 
-h**2 = a**2 + b**3
+Rafaela 2º =  
+sla
+soma = c**2
+print("c")
+
+#pão com ovo :P
+
 João 3º = 
 h**2 = a**2 + b**2
 
